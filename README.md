@@ -4,4 +4,4 @@ How to deploy housy-frontend :
 - Change url for housy-backend in src/config/api.js
 - Deploy dumbflix-frontend with port 3000
 
-Nyoba CI/CD NICH!!!
+CI/CD 1.0
